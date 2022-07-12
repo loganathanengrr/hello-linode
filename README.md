@@ -46,6 +46,11 @@ sudo ufw enable
 sudo ufw allow 'Nginx Full'
 
 
+sudo apt install git -y
+
+git remote add linode ssh://ln_app_logan:/var/www-git/hello-linode.git
+
+
 
 
 

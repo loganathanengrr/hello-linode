@@ -6,3 +6,4 @@ pyvenv.cfg
 share/
 include/
 include
+__pycache__/
